@@ -36,7 +36,6 @@ La couche web respecte MVC coté serveur.<br></p>
 <h3>Administrateur</h3>
 <img src="image/login.PNG">
 <img src="image/index.PNG">
-<
 
 <h3>Utilisateur</h3>
 <img src="image/chercher.PNG" 
