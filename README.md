@@ -30,12 +30,12 @@ La couche web respecte MVC coté serveur.<br></p>
 <img src="image/capture2.png">
 
 <h3><u>la base de donnee pat_db</u></h3><br>
-<img src="image/capture3.PNG">
+<img src="image/capture3.png">
 
 
 <h3>Administrateur</h3>
-<img src="image/login.PNG">
-<img src="image/index.PNG">
+<img src="image/login.png">
+<img src="image/index.png">
 
 <h3>Utilisateur</h3>
-<img src="image/chercher.PNG" 
+<img src="image/chercher.png" 
