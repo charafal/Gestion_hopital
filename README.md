@@ -38,4 +38,4 @@ La couche web respecte MVC coté serveur.<br></p>
 <img src="image/index.png">
 
 <h3>Utilisateur</h3>
-<img src="image/chercher.png" 
+<img src="image/chercher.png">
